@@ -1,7 +1,6 @@
-Hi There.! 🤚
-I'm Ravimal from Sri Lanka, and I'm undergraduate student in Computer Science. 
-I really enjoy learning Programming languages. 
-I also enjoy wireframing, UI / UX design in general.
+👋 Hi! I'm **Sachinthaka**, a **Computer Science undergraduate** from **Sri Lanka 🇱🇰** with a passion for technology and creativity. I develop modern web and mobile applications as a **Full Stack Developer** and create professional graphic designs for branding, marketing, and presentations. I enjoy learning new technologies and turning ideas into practical, user-focused solutions.
+
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ravimal201)](https://git.io/streak-stats)
